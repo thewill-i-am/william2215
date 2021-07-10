@@ -11,12 +11,12 @@ f<a href="https://www.linkedin.com/in/william-aguilar-634938198/">
 
 Hi, I'm William Aguilar, a passionate self-taught machine learning and full stack developer from Costa Rica. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also a machine learning and artificial intelligence enthusiast, you can find several repositories of those topics within my Github profile.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💬 ask me about anything, i am happy to help;
+- 💬 Ask me about anything, I am happy to help;
 
 **languages and tools:**  
 
