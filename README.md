@@ -9,7 +9,7 @@
 
 <br />
 
-Hi, I'm William Aguilar, a passionate self-taught machine learning and full stack developer from Costa Rica. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm William Aguilar, a passionate self-taught Machine Learning and full stack developer from Costa Rica. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also a machine learning and artificial intelligence enthusiast, you can find several repositories of those topics within my Github profile.
 
